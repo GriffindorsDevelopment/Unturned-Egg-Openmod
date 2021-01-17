@@ -1,12 +1,9 @@
-# pterodactyl-unturned-rocketmod
+# Pterodactyl Unturned Server Egg-Openmod
 [![Docker Cloud Build Status](https://img.shields.io/docker/cloud/build/griffindor30/unturned-egg-openmod.svg?style=flat)](https://hub.docker.com/r/griffindor30/unturned-egg-openmod)
 [![Docker Pulls](https://img.shields.io/docker/pulls/griffindor30/unturned-egg-openmod.svg?style=flat)](https://hub.docker.com/r/griffindor30/unturned-egg-openmod)
-[![Discord](https://img.shields.io/discord/587497033712140288)](https://discord.gg/7Xrqx2T)
+[![Discord](https://img.shields.io/discord/328932413428465674)](https://discord.gg/BbnkdtX)
 ![](https://img.shields.io/badge/status-prod-informational)
 
-Pterodactyl Unturned using Unturned Dedicated Server
-
-> This egg is running in our production, we will keep it well maintained and up to date.
 ## Features
 - Using Untured Dedicated Server(64-bit Linux Version) for a better performance
 - Allow users to configure if they need `OpenMod Auto Update`, `Game Auto Update` or not
