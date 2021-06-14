@@ -14,4 +14,4 @@ jobs:
           username: ${{ secrets.DOCKER_USER }}
           password: ${{ secrets.DOCKER_PASS }}
           repository: unturned-egg-openmod
-          readme: "./README.md"
+          readme: ./README.md
